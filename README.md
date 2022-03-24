@@ -64,3 +64,13 @@ graph:
 Given a set of points Q on a road network, an optimal meeting point (OMP) query returns the point on a road network G = (V, E) with the smallest sum of network
 distances to all the points in Q.
 Consider your team need to find a location for gathering. There are N members of the team (Team ID:1~N). You need to decide the meeting place with the smallest sum of distances to all the members. The total cost is defined as the total distance from everyone to the the meeting point. 
+
+quick_sort:
+Please write a program that can read data from a standard input (stdin). In this program, you are asked to read multiple input data from a given file. The quick sort algorithm uses a divide and conquer strategy. First, it selects the first number as the pivot. Second, it moves all the smaller elements to the left of the array and moves all the larger elements to the right of the array. Repeat the above procedure until the whole array is sorted.
+
+selection_sort:
+Please write a program that can read data from a standard input (stdin). In this program, you are asked to read multiple input data from a given file. The selection sort algorithm searches the whole array for the smallest element. First, the data is divided into two parts, sorted and unsorted. Suppose you want to put n data at the beginning is unsorted. At this time, the minimum value of n unsorted data is taken out and placed at the end of the sorted data, that is, it is exchanged with the first data, and the array result is printed. The procedure stops until there is no unsorted data.
+
+minimum_gap
+Please write a program that can read data from a standard input (stdin). In this program, you are asked to read multiple input data from a given file. Given an unsorted input data, find the minimum difference between the elements after you complete the sort.
+Note: you have to use merge sort to sort the input elements from small to large, and you need to output the procedure and the minimum gap.
