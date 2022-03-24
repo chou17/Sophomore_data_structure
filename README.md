@@ -71,6 +71,6 @@ Please write a program that can read data from a standard input (stdin). In this
 selection_sort:
 Please write a program that can read data from a standard input (stdin). In this program, you are asked to read multiple input data from a given file. The selection sort algorithm searches the whole array for the smallest element. First, the data is divided into two parts, sorted and unsorted. Suppose you want to put n data at the beginning is unsorted. At this time, the minimum value of n unsorted data is taken out and placed at the end of the sorted data, that is, it is exchanged with the first data, and the array result is printed. The procedure stops until there is no unsorted data.
 
-minimum_gap
+merge_sort:
 Please write a program that can read data from a standard input (stdin). In this program, you are asked to read multiple input data from a given file. Given an unsorted input data, find the minimum difference between the elements after you complete the sort.
 Note: you have to use merge sort to sort the input elements from small to large, and you need to output the procedure and the minimum gap.
