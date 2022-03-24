@@ -131,7 +131,7 @@ int main(){
             print_yes(0,result);
             continue;
         }
-     //If it can¡¦t merge,move and rotate the immovable puzzle to merge the movable puzzle.
+     //If it canÂ¡Â¦t merge,move and rotate the immovable puzzle to merge the movable puzzle.
 
         rotate(tmp1,im_puzzle);//Rotating the immovable puzzle 90 degree
         not=cmp(no,result,tmp1,move_puzzle);
